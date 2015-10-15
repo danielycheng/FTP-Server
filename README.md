@@ -11,4 +11,5 @@ The Server implements the bare-bones requirements/commands set forth in Section 
 
 - The Server will only support one active client at a time.
 - The Server will interoperate with the default ftp client found on the power nodes (/usr/bin/ftp).
+
 - The “root” of the file namespace serviced by the Server program will be the current working (local) directory when it executed.
